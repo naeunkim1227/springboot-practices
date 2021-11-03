@@ -11,7 +11,6 @@
 </properties>	
   
   <modules>
-  	<module>mysite06</module>
   	<module>myweb</module>
   	<module>helloworld</module>
   	<module>myapplication</module>
